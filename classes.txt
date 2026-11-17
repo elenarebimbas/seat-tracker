@@ -1,4 +1,0 @@
-# One class per line: TERM SUBJECT NUMBER CRN
-# Term codes: 202730 = Spring 2027, 202710 = Fall 2026
-# Replace the example below with your class:
-202730 ME 3455 30428
